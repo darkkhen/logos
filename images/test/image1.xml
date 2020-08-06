@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Audi</folder>
+	<filename>$_84.jpg</filename>
+	<path>C:\Users\Ken\Desktop\New folder (2)\Audi\$_84.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>audi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>42</ymin>
+			<xmax>386</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>audi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>164</ymin>
+			<xmax>463</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>
