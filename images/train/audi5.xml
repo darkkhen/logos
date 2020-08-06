@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Audi</folder>
+	<filename>457d475b-33b7-11e8-abcc-02b7b76bf47f.jpg</filename>
+	<path>C:\Users\Ken\Desktop\New folder (2)\Audi\457d475b-33b7-11e8-abcc-02b7b76bf47f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>audi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>894</xmin>
+			<ymin>378</ymin>
+			<xmax>966</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

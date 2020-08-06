@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Burger King</folder>
+	<filename>helsinki_airport_burger_king_food.jpg</filename>
+	<path>C:\Users\Ken\Desktop\New folder (2)\Burger King\helsinki_airport_burger_king_food.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>burgerking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>475</xmin>
+			<ymin>72</ymin>
+			<xmax>561</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>burgerking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>669</xmin>
+			<ymin>248</ymin>
+			<xmax>746</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Burger King</folder>
+	<filename>XXL.jpg</filename>
+	<path>C:\Users\Ken\Desktop\New folder (2)\Burger King\XXL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>burgerking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>46</ymin>
+			<xmax>240</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>burgerking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>717</xmin>
+			<ymin>187</ymin>
+			<xmax>765</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>burgerking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>774</xmin>
+			<ymin>194</ymin>
+			<xmax>846</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

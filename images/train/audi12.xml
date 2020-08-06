@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Audi</folder>
+	<filename>campagne-communication-audi-turkiye-coronavirus.jpg</filename>
+	<path>C:\Users\Ken\Desktop\New folder (2)\Audi\campagne-communication-audi-turkiye-coronavirus.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>437</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>audi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>136</ymin>
+			<xmax>646</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

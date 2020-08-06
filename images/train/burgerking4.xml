@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Burger King</folder>
+	<filename>B9720549968Z.1_20190812150844_000+G5AE81UQM.1-0.jpg</filename>
+	<path>C:\Users\Ken\Desktop\New folder (2)\Burger King\B9720549968Z.1_20190812150844_000+G5AE81UQM.1-0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1350</width>
+		<height>759</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>burgerking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>744</xmin>
+			<ymin>14</ymin>
+			<xmax>1020</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

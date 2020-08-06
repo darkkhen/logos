@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Burger King</folder>
+	<filename>Burger-King-to-reopen-select-UK-sites-for-delivery_wrbm_large.jpg</filename>
+	<path>C:\Users\Ken\Desktop\New folder (2)\Burger King\Burger-King-to-reopen-select-UK-sites-for-delivery_wrbm_large.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>burgerking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>11</ymin>
+			<xmax>537</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Audi</folder>
+	<filename>44681640-prague-the-czech-republic-02-08-2015-audi-a4-allroad-parks-in-front-of-car-store-audi-in-prague.jpg</filename>
+	<path>C:\Users\Ken\Desktop\New folder (2)\Audi\44681640-prague-the-czech-republic-02-08-2015-audi-a4-allroad-parks-in-front-of-car-store-audi-in-prague.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>893</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>audi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>593</xmin>
+			<ymin>428</ymin>
+			<xmax>708</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Audi</folder>
+	<filename>intropage-header.jpg</filename>
+	<path>C:\Users\Ken\Desktop\New folder (2)\Audi\intropage-header.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1150</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>audi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>649</xmin>
+			<ymin>298</ymin>
+			<xmax>675</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>
