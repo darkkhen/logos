@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Audi</folder>
-	<filename>$_84.jpg</filename>
-	<path>C:\Users\Ken\Desktop\New folder (2)\Audi\$_84.jpg</path>
+	<folder>test</folder>
+	<filename>audi1.jpg</filename>
+	<path>C:\Users\Ken\Documents\GitHub\logos\images\test\audi1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>150</xmin>
-			<ymin>42</ymin>
+			<ymin>41</ymin>
 			<xmax>386</xmax>
-			<ymax>110</ymax>
+			<ymax>113</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -32,7 +32,7 @@
 			<xmin>38</xmin>
 			<ymin>164</ymin>
 			<xmax>463</xmax>
-			<ymax>312</ymax>
+			<ymax>313</ymax>
 		</bndbox>
 	</object>
 </annotation>

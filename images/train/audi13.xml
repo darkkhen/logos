@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Audi</folder>
-	<filename>intropage-header.jpg</filename>
-	<path>C:\Users\Ken\Desktop\New folder (2)\Audi\intropage-header.jpg</path>
+	<folder>train</folder>
+	<filename>audi13.jpg</filename>
+	<path>C:\Users\Ken\Documents\GitHub\logos\images\train\audi13.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>649</xmin>
 			<ymin>298</ymin>
-			<xmax>675</xmax>
+			<xmax>674</xmax>
 			<ymax>310</ymax>
 		</bndbox>
 	</object>

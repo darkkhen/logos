@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Burger King</folder>
-	<filename>BurgerKing-Vadistanbul-avm.jpg</filename>
-	<path>C:\Users\Ken\Desktop\New folder (2)\Burger King\BurgerKing-Vadistanbul-avm.jpg</path>
+	<folder>train</folder>
+	<filename>burgerking11.jpg</filename>
+	<path>C:\Users\Ken\Documents\GitHub\logos\images\train\burgerking11.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>122</xmin>
+			<xmin>123</xmin>
 			<ymin>23</ymin>
-			<xmax>196</xmax>
-			<ymax>109</ymax>
+			<xmax>195</xmax>
+			<ymax>108</ymax>
 		</bndbox>
 	</object>
 </annotation>

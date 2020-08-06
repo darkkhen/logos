@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Audi</folder>
-	<filename>la-future-audi-a3-sera-la-grande-nouveaute-de-lannee-2020-pour-la-marque.jpg</filename>
-	<path>C:\Users\Ken\Desktop\New folder (2)\Audi\la-future-audi-a3-sera-la-grande-nouveaute-de-lannee-2020-pour-la-marque.jpg</path>
+	<folder>train</folder>
+	<filename>audi16.jpg</filename>
+	<path>C:\Users\Ken\Documents\GitHub\logos\images\train\audi16.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>179</xmin>
-			<ymin>195</ymin>
-			<xmax>241</xmax>
+			<xmin>180</xmin>
+			<ymin>196</ymin>
+			<xmax>240</xmax>
 			<ymax>226</ymax>
 		</bndbox>
 	</object>

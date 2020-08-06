@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Burger King</folder>
-	<filename>2522f02978ab0ad59250d6fa9a29a43a.jpg</filename>
-	<path>C:\Users\Ken\Desktop\New folder (2)\Burger King\2522f02978ab0ad59250d6fa9a29a43a.jpg</path>
+	<folder>test</folder>
+	<filename>burgerking2.jpg</filename>
+	<path>C:\Users\Ken\Documents\GitHub\logos\images\test\burgerking2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -20,7 +20,7 @@
 			<xmin>431</xmin>
 			<ymin>136</ymin>
 			<xmax>477</xmax>
-			<ymax>186</ymax>
+			<ymax>185</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>6</xmin>
-			<ymin>150</ymin>
-			<xmax>212</xmax>
-			<ymax>212</ymax>
+			<xmin>8</xmin>
+			<ymin>170</ymin>
+			<xmax>24</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>burgerking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>444</xmin>
+			<ymin>459</ymin>
+			<xmax>474</xmax>
+			<ymax>501</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Burger King</folder>
-	<filename>Burger-King-to-reopen-select-UK-sites-for-delivery_wrbm_large.jpg</filename>
-	<path>C:\Users\Ken\Desktop\New folder (2)\Burger King\Burger-King-to-reopen-select-UK-sites-for-delivery_wrbm_large.jpg</path>
+	<folder>train</folder>
+	<filename>burgerking10.jpg</filename>
+	<path>C:\Users\Ken\Documents\GitHub\logos\images\train\burgerking10.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>147</xmin>
-			<ymin>11</ymin>
-			<xmax>537</xmax>
-			<ymax>391</ymax>
+			<xmin>146</xmin>
+			<ymin>10</ymin>
+			<xmax>535</xmax>
+			<ymax>390</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Audi</folder>
-	<filename>campagne-communication-audi-turkiye-coronavirus.jpg</filename>
-	<path>C:\Users\Ken\Desktop\New folder (2)\Audi\campagne-communication-audi-turkiye-coronavirus.jpg</path>
+	<folder>train</folder>
+	<filename>audi12.jpg</filename>
+	<path>C:\Users\Ken\Documents\GitHub\logos\images\train\audi12.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>150</xmin>
-			<ymin>136</ymin>
-			<xmax>646</xmax>
-			<ymax>303</ymax>
+			<xmin>146</xmin>
+			<ymin>138</ymin>
+			<xmax>645</xmax>
+			<ymax>302</ymax>
 		</bndbox>
 	</object>
 </annotation>

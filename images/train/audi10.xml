@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Audi</folder>
-	<filename>44681650-prague-the-czech-republic-02-08-2015-brand-new-white-audi-a6-parks-in-front-of-car-store-audi.jpg</filename>
-	<path>C:\Users\Ken\Desktop\New folder (2)\Audi\44681650-prague-the-czech-republic-02-08-2015-brand-new-white-audi-a6-parks-in-front-of-car-store-audi.jpg</path>
+	<folder>train</folder>
+	<filename>audi10.jpg</filename>
+	<path>C:\Users\Ken\Documents\GitHub\logos\images\train\audi10.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>173</xmin>
-			<ymin>507</ymin>
-			<xmax>292</xmax>
-			<ymax>585</ymax>
+			<ymin>512</ymin>
+			<xmax>291</xmax>
+			<ymax>579</ymax>
 		</bndbox>
 	</object>
 </annotation>

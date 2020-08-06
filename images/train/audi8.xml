@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Audi</folder>
-	<filename>26999977-audi-a6-avant-2012-big-trunk-in-this-car-max-store-size-.jpg</filename>
-	<path>C:\Users\Ken\Desktop\New folder (2)\Audi\26999977-audi-a6-avant-2012-big-trunk-in-this-car-max-store-size-.jpg</path>
+	<folder>train</folder>
+	<filename>audi8.jpg</filename>
+	<path>C:\Users\Ken\Documents\GitHub\logos\images\train\audi8.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>528</xmin>
-			<ymin>512</ymin>
-			<xmax>603</xmax>
-			<ymax>558</ymax>
+			<xmin>530</xmin>
+			<ymin>516</ymin>
+			<xmax>599</xmax>
+			<ymax>553</ymax>
 		</bndbox>
 	</object>
 </annotation>

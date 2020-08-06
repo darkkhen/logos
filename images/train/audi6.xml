@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Audi</folder>
-	<filename>603a17b27a99499fac62219f5c9640e0_c1x0-798x600.jpg</filename>
-	<path>C:\Users\Ken\Desktop\New folder (2)\Audi\603a17b27a99499fac62219f5c9640e0_c1x0-798x600.jpg</path>
+	<folder>train</folder>
+	<filename>audi6.jpg</filename>
+	<path>C:\Users\Ken\Documents\GitHub\logos\images\train\audi6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>654</xmin>
+			<xmin>655</xmin>
 			<ymin>42</ymin>
-			<xmax>736</xmax>
-			<ymax>93</ymax>
+			<xmax>735</xmax>
+			<ymax>90</ymax>
 		</bndbox>
 	</object>
 </annotation>

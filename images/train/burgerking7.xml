@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Burger King</folder>
-	<filename>burger-king-nutrisionist-meal-v2-1533584505.jpg</filename>
-	<path>C:\Users\Ken\Desktop\New folder (2)\Burger King\burger-king-nutrisionist-meal-v2-1533584505.jpg</path>
+	<folder>train</folder>
+	<filename>burgerking7.jpg</filename>
+	<path>C:\Users\Ken\Documents\GitHub\logos\images\train\burgerking7.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>272</xmin>
-			<ymin>287</ymin>
+			<ymin>285</ymin>
 			<xmax>385</xmax>
-			<ymax>397</ymax>
+			<ymax>402</ymax>
 		</bndbox>
 	</object>
 </annotation>
