@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nacon</folder>
+	<filename>nacon6.jpeg</filename>
+	<path>C:\Users\Ken\Desktop\New folder (2)\Nacon\nacon6.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nacon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>711</xmin>
+			<ymin>574</ymin>
+			<xmax>785</xmax>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+</annotation>
