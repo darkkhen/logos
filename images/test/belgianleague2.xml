@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Belgian League</folder>
+	<filename>belgianleague2.jpg</filename>
+	<path>C:\Users\Ken\Desktop\New folder (2)\Belgian League\belgianleague2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1568</width>
+		<height>882</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>belgianleague</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1250</xmin>
+			<ymin>75</ymin>
+			<xmax>1486</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sectorone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1144</xmin>
+			<ymin>517</ymin>
+			<xmax>1190</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>

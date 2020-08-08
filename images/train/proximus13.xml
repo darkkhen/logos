@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Proximus</folder>
+	<filename>proximus13.jpg</filename>
+	<path>C:\Users\Ken\Desktop\New folder (2)\Proximus\proximus13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1129</width>
+		<height>759</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>proximus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>256</ymin>
+			<xmax>533</xmax>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+</annotation>
